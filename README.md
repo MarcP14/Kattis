@@ -3,7 +3,7 @@ Solutions to the [Kattis problems](https://open.kattis.com/).
 
 ## Solved Problems
 - Avion
-- Job_Expenses
-- Shattered_Cake
+- Job Expenses
+- Shattered Cake
 - Tetration
-- Transit_Woes
+- Transit Woes
