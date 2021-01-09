@@ -1,3 +1,3 @@
 #Tetration
-N = int(input())
-print(N^(1/N))
+N = float(input())
+print(round(N**(1/N),6))
