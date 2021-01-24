@@ -8,3 +8,4 @@ Solutions to the [Kattis problems](https://open.kattis.com/).
 - Tetration
 - Transit Woes
 - Honour Thy (Apaxian) Parent
+- Fifty Shades of Pink
