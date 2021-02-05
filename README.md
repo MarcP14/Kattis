@@ -10,3 +10,5 @@ Solutions to the [Kattis problems](https://open.kattis.com/).
 - Honour Thy (Apaxian) Parent
 - Fifty Shades of Pink
 - School Spirit
+- Lost Lineup
+- Kleptography
