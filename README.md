@@ -12,3 +12,5 @@ Solutions to the [Kattis problems](https://open.kattis.com/).
 - School Spirit
 - Lost Lineup
 - Kleptography
+- T9 Spelling
+- Mjehuric
