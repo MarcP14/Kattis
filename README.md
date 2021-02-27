@@ -4,7 +4,7 @@ Solutions to the [Kattis problems](https://open.kattis.com/).
 ## Solved Problems                
 
 | Problem                                       | Language                          |
-|-----------------------------------------------|-----------------------------------|
+|:----------------------------------------------|:----------------------------------|
 |Avion                        	                | Python 3                          |
 |Job Expenses					                          | Python 3                          |
 |Shattered Cake                                 | Python 3                          |
