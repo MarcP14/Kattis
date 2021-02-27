@@ -1,0 +1,13 @@
+C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\bin\Debug\netcoreapp3.1\CSharp - Solutions.exe
+C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\bin\Debug\netcoreapp3.1\CSharp - Solutions.deps.json
+C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\bin\Debug\netcoreapp3.1\CSharp - Solutions.runtimeconfig.json
+C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\bin\Debug\netcoreapp3.1\CSharp - Solutions.runtimeconfig.dev.json
+C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\bin\Debug\netcoreapp3.1\CSharp - Solutions.dll
+C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\bin\Debug\netcoreapp3.1\CSharp - Solutions.pdb
+C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\obj\Debug\netcoreapp3.1\CSharp - Solutions.csprojAssemblyReference.cache
+C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\obj\Debug\netcoreapp3.1\CSharp - Solutions.AssemblyInfoInputs.cache
+C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\obj\Debug\netcoreapp3.1\CSharp - Solutions.AssemblyInfo.cs
+C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\obj\Debug\netcoreapp3.1\CSharp - Solutions.csproj.CoreCompileInputs.cache
+C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\obj\Debug\netcoreapp3.1\CSharp - Solutions.dll
+C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\obj\Debug\netcoreapp3.1\CSharp - Solutions.pdb
+C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\obj\Debug\netcoreapp3.1\CSharp - Solutions.genruntimeconfig.cache

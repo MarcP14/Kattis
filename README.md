@@ -5,7 +5,7 @@ Solutions to the [Kattis problems](https://open.kattis.com/).
 |No.            | Problem                                       | Language                          |
 |:--------------|:----------------------------------------------|:----------------------------------|
 |1              |Avion                        	                | Python 3                          |
-|2              |Job Expenses					                          | Python 3                          |
+|2              |Job Expenses					                | Python 3                          |
 |3              |Shattered Cake                                 | Python 3                          |
 |4              |Tetration                                      | Python 3                          |
 |5              |Transit Woes                                   | Python 3                          |
@@ -15,4 +15,7 @@ Solutions to the [Kattis problems](https://open.kattis.com/).
 |9              |Lost Lineup                                    | Python 3                          |
 |10             |Kleptography                                   | Python 3                          |
 |11             |T9 Spelling                                    | Python 3                          |
-|12             |Mjehuric                  						          | Python 3  			                  |
+|12             |Mjehuric                  						| Python 3  			            |
+|13             |Line Them Up               					| Python 3  			            |
+|14             |Jack-O'-Lantern Juxtaposition  				| Python 3  			            |
+|15             |Jack-O'-Lantern Juxtaposition  				| C#         			            |
