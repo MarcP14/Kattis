@@ -1,4 +1,7 @@
-print(eval('*'.join(input().split(' '))))
+
+
+####Jack-O'-Lantern Juxtaposition
+##print(eval('*'.join(input().split(' '))))
 
 ####Line Them Up
 ##import sys

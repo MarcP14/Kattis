@@ -4,7 +4,7 @@ namespace CSharp___Solutions
 {
     class JackOLantern_Juxtaposition
     {
-        static void Main(string[] args)
+        static void Old_Main(string[] args)
         {
             string[] input = Console.ReadLine().Split(' ');
 
