@@ -2,7 +2,6 @@
 Solutions to the [Kattis problems](https://open.kattis.com/).
 
 ## Solved Problems
-##SolvedProblems
 |No.|Problem|Language|
 |:-|:-|:-|
 |1|Avion|Python3|
@@ -21,5 +20,5 @@ Solutions to the [Kattis problems](https://open.kattis.com/).
 |14|Jack-O'-LanternJuxtaposition|Python3|
 |15|Jack-O'-LanternJuxtaposition|C#|
 |16|IdentifyingMapTiles|C#|
-|17|Weak_Vertices|C#| *Dokonèaj
+|17|Weak_Vertices|C#| *DokonÃ¨aj
 |18|Stopwatch|C#|
