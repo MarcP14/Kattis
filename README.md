@@ -21,3 +21,5 @@ Solutions to the [Kattis problems](https://open.kattis.com/).
 |14|Jack-O'-LanternJuxtaposition|Python3|
 |15|Jack-O'-LanternJuxtaposition|C#|
 |16|IdentifyingMapTiles|C#|
+|17|Weak_Vertices|C#| *Dokonèaj
+|18|Stopwatch|C#|

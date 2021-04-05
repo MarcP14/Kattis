@@ -6,7 +6,7 @@ namespace CSharp___Solutions
     //Identifying Map Tiles
     class Identifying_Map_Tiles
     {
-        static void Main(string[] args)
+        static void Old_Main(string[] args)
         {
             string input = Console.ReadLine();
 
