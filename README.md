@@ -2,7 +2,6 @@
 Solutions to the [Kattis problems](https://open.kattis.com/).
 
 ## Solved Problems
-##SolvedProblems
 |No.|Problem|Language|
 |:-|:-|:-|
 |1|Avion|Python3|
