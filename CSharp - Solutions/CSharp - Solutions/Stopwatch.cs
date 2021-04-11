@@ -7,7 +7,7 @@ namespace CSharp___Solutions
 {
     class Stopwatch
     {
-        static void Main(string[] args)
+        static void Old_Main(string[] args)
         {
             int stop_num = int.Parse(Console.ReadLine());
 
