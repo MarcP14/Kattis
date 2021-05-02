@@ -6,7 +6,7 @@ namespace CSharp___Solutions
 {
     class Weak_Vertices
     {
-        static void Main(string[] args)
+        static void Old_Main(string[] args)
         {
             int vertex_num;
 

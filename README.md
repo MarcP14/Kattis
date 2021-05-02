@@ -22,3 +22,12 @@ Solutions to the [Kattis problems](https://open.kattis.com/).
 |16|IdentifyingMapTiles|C#|
 |17|Weak_Vertices|C#| 
 |18|Stopwatch|C#|
+|19|[Laptop_Sticker](https://open.kattis.com/problems/laptopsticker)|C#|
+|20|[Jumbo_Javelin](https://open.kattis.com/problems/jumbojavelin)|C#|
+|21|[Forced_Choice](https://open.kattis.com/problems/forcedchoice)|C#|
+|22|[Karte](https://open.kattis.com/problems/karte)|C#|
+|23|[Hangman](https://open.kattis.com/problems/hangman)|C#|
+|24|[Greedy_Polygons](https://open.kattis.com/problems/greedypolygons)|C#|
+|25|[FYI](https://open.kattis.com/problems/fyi)|C#|
+
+
