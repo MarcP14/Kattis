@@ -29,5 +29,13 @@ Solutions to the [Kattis problems](https://open.kattis.com/).
 |23|[Hangman](https://open.kattis.com/problems/hangman)|C#|
 |24|[Greedy_Polygons](https://open.kattis.com/problems/greedypolygons)|C#|
 |25|[FYI](https://open.kattis.com/problems/fyi)|C#|
-
+|26|[Echo_Echo_Echo](https://open.kattis.com/problems/echoechoecho)|C#|
+|27|[Add_Two_Numbers](https://open.kattis.com/problems/addtwonumbers)|C#|
+|28|[Sort_Two_Numbers](https://open.kattis.com/problems/sorttwonumbers)|C#|
+|29|[Rating_Problems](https://open.kattis.com/problems/ratingproblems)|C#|
+|30|[Magic_Trick](https://open.kattis.com/problems/magictrick)|C#|
+|31|[Triple_Texting](https://open.kattis.com/problems/tripletexting)|C#|
+|32|[Speeding](https://open.kattis.com/problems/speeding)|C#|
+|33|[Odd_Gnome](https://open.kattis.com/problems/oddgnome)|C#|
+|34|[Missing_Numbers](https://open.kattis.com/problems/missingnumbers)|C#|
 

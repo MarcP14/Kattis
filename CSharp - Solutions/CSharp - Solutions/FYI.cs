@@ -6,7 +6,7 @@ namespace CSharp___Solutions
 {
     class FYI
     {
-        static void Main (string[] args)
+        static void Old_Main (string[] args)
         {
             if(Console.ReadLine().Substring(0, 3)=="555")
             {
