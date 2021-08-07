@@ -38,4 +38,11 @@ Solutions to the [Kattis problems](https://open.kattis.com/).
 |32|[Speeding](https://open.kattis.com/problems/speeding)|C#|
 |33|[Odd_Gnome](https://open.kattis.com/problems/oddgnome)|C#|
 |34|[Missing_Numbers](https://open.kattis.com/problems/missingnumbers)|C#|
+|35|[Prsteni](https://open.kattis.com/problems/prsteni)|C#|
+|36|[Drunk_Vigenere](https://open.kattis.com/problems/drunkvigenere)|C#|
+|37|[Black_Friday](https://open.kattis.com/problems/blackfriday)|C#|
+|38|[Adding_Words](https://open.kattis.com/problems/addingwords)|C#|
+|39|[Train_Passengers](https://open.kattis.com/problems/trainpassengers)|C#|
+|40|[Booking_a_Room](https://open.kattis.com/problems/bookingaroom)|C#|
+
 

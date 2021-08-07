@@ -5,7 +5,7 @@ namespace CSharp___Solutions
 {
     class Missing_Numbers
     {
-        static void Main (string[] args)
+        static void Old_Main (string[] args)
         {
             Console.ReadLine();
 
