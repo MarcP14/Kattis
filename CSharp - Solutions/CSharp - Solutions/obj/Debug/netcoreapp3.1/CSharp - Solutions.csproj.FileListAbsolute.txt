@@ -4,10 +4,24 @@ C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Sol
 C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\bin\Debug\netcoreapp3.1\CSharp - Solutions.runtimeconfig.dev.json
 C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\bin\Debug\netcoreapp3.1\CSharp - Solutions.dll
 C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\bin\Debug\netcoreapp3.1\CSharp - Solutions.pdb
-C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\obj\Debug\netcoreapp3.1\CSharp - Solutions.csprojAssemblyReference.cache
 C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\obj\Debug\netcoreapp3.1\CSharp - Solutions.AssemblyInfoInputs.cache
 C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\obj\Debug\netcoreapp3.1\CSharp - Solutions.AssemblyInfo.cs
-C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\obj\Debug\netcoreapp3.1\CSharp - Solutions.csproj.CoreCompileInputs.cache
 C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\obj\Debug\netcoreapp3.1\CSharp - Solutions.dll
 C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\obj\Debug\netcoreapp3.1\CSharp - Solutions.pdb
 C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\obj\Debug\netcoreapp3.1\CSharp - Solutions.genruntimeconfig.cache
+C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\bin\Debug\netcoreapp3.1\PdfSharp.Charting.dll
+C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\bin\Debug\netcoreapp3.1\PdfSharp.dll
+C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\bin\Debug\netcoreapp3.1\de\PdfSharp.Charting.resources.dll
+C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\bin\Debug\netcoreapp3.1\de\PdfSharp.resources.dll
+C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\obj\Debug\netcoreapp3.1\CSharp - Solutions.csproj.CopyComplete
+C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\obj\Debug\netcoreapp3.1\CSharp - Solutions.csproj.CoreCompileInputs.cache
+C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\obj\Debug\netcoreapp3.1\CSharp - Solutions.csproj.AssemblyReference.cache
+C:\Users\Petra\Documents\GitHub\Kattis-Solutions\CSharp - Solutions\CSharp - Solutions\obj\Debug\netcoreapp3.1\CSharp - Solutions.GeneratedMSBuildEditorConfig.editorconfig

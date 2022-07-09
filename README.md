@@ -30,7 +30,7 @@ Solutions to the [Kattis problems](https://open.kattis.com/).
 |24|[Greedy_Polygons](https://open.kattis.com/problems/greedypolygons)|C#|
 |25|[FYI](https://open.kattis.com/problems/fyi)|C#|
 |26|[Echo_Echo_Echo](https://open.kattis.com/problems/echoechoecho)|C#|
-|27|[Add_Two_Numbers](https://open.kattis.com/problems/addtwonumbers)|C#|
+|27|[Add_Two_Numbers](https://open.kattis.com/problems/addtwonumbers)|C#|--######
 |28|[Sort_Two_Numbers](https://open.kattis.com/problems/sorttwonumbers)|C#|
 |29|[Rating_Problems](https://open.kattis.com/problems/ratingproblems)|C#|
 |30|[Magic_Trick](https://open.kattis.com/problems/magictrick)|C#|
@@ -43,6 +43,11 @@ Solutions to the [Kattis problems](https://open.kattis.com/).
 |37|[Black_Friday](https://open.kattis.com/problems/blackfriday)|C#|
 |38|[Adding_Words](https://open.kattis.com/problems/addingwords)|C#|
 |39|[Train_Passengers](https://open.kattis.com/problems/trainpassengers)|C#|
-|40|[Booking_a_Room](https://open.kattis.com/problems/bookingaroom)|C#|
-
+|40|[Two_Sum](https://open.kattis.com/problems/twosum)|C#|
+|41|[N_sum](https://open.kattis.com/problems/nsum)|C#|
+|42|[Grading](https://open.kattis.com/problems/grading)|C#|
+|43|[Which_is_Greater](https://open.kattis.com/problems/whichisgreater)|C#|
+|44|[Odd_Echo](https://open.kattis.com/problems/oddecho)|C#|
+|45|[Triangle_Area](https://open.kattis.com/problems/triarea)|C#|
+|46|[Flexible_Spaces](https://open.kattis.com/problems/flexible)|C#|
 
