@@ -50,4 +50,7 @@ Solutions to the [Kattis problems](https://open.kattis.com/).
 |44|[Odd_Echo](https://open.kattis.com/problems/oddecho)|C#|
 |45|[Triangle_Area](https://open.kattis.com/problems/triarea)|C#|
 |46|[Flexible_Spaces](https://open.kattis.com/problems/flexible)|C#|
+|47|[GCVWR](https://open.kattis.com/problems/gcvwr)|C#|
+|48|[Watch_Out_For_Those_Hailstones](https://open.kattis.com/problems/hailstone)|C#|
+
 
