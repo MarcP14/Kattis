@@ -294,11 +294,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Petra\\Documents\\GitHub\\Kattis-Solutions\\CSharp - Solutions\\CSharp - Solutions\\CSharp - Solutions.csproj",
+      "projectUniqueName": "C:\\Users\\Petra\\source\\Workspaces\\Workspace\\Kattis-Solutions\\CSharp - Solutions\\CSharp - Solutions\\CSharp - Solutions.csproj",
       "projectName": "CSharp - Solutions",
-      "projectPath": "C:\\Users\\Petra\\Documents\\GitHub\\Kattis-Solutions\\CSharp - Solutions\\CSharp - Solutions\\CSharp - Solutions.csproj",
+      "projectPath": "C:\\Users\\Petra\\source\\Workspaces\\Workspace\\Kattis-Solutions\\CSharp - Solutions\\CSharp - Solutions\\CSharp - Solutions.csproj",
       "packagesPath": "C:\\Users\\Petra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Petra\\Documents\\GitHub\\Kattis-Solutions\\CSharp - Solutions\\CSharp - Solutions\\obj\\",
+      "outputPath": "C:\\Users\\Petra\\source\\Workspaces\\Workspace\\Kattis-Solutions\\CSharp - Solutions\\CSharp - Solutions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

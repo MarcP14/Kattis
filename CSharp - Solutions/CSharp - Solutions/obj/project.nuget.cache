@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dsO5FVP9BNNcAVAy6eN4I+NWZWFNmsKc7dwKRF/JGAF/O6dif4Wf/M86A+UXODLfFfIE2ZSNgIDqHmCAT/fnZA==",
+  "dgSpecHash": "kxK7jMmCselq/s6wDGKPz4vKgjvYJUJk11n97XgJeryL7wI4JIuc0R+CY8Tkd8rIov5eqm9b+G5+tWzzeWFPhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Petra\\Documents\\GitHub\\Kattis-Solutions\\CSharp - Solutions\\CSharp - Solutions\\CSharp - Solutions.csproj",
+  "projectFilePath": "C:\\Users\\Petra\\source\\Workspaces\\Workspace\\Kattis-Solutions\\CSharp - Solutions\\CSharp - Solutions\\CSharp - Solutions.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Petra\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\Petra\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",

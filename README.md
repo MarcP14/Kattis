@@ -52,5 +52,17 @@ Solutions to the [Kattis problems](https://open.kattis.com/).
 |46|[Flexible_Spaces](https://open.kattis.com/problems/flexible)|C#|
 |47|[GCVWR](https://open.kattis.com/problems/gcvwr)|C#|
 |48|[Watch_Out_For_Those_Hailstones](https://open.kattis.com/problems/hailstone)|C#|
+|49|[Finding_An_A](https://open.kattis.com/problems/findingana)|C#|
+|50|[Verify_This,_Your_Majesty](https://open.kattis.com/problems/queens)|C#|
+|51|[Turtle_Master](https://open.kattis.com/problems/turtlemaster)|C#|
+|52|[Rounded_Buttons](https://open.kattis.com/problems/roundedbuttons)|C#|
+|53|[Betting](https://open.kattis.com/problems/betting)|Python3|
+|54|[Pokechat](https://open.kattis.com/problems/pokechat)|Python3|
+|55|[Knight_Packing](https://open.kattis.com/problems/knightpacking)|Python3|
+|56|[Eye_of_Sauron](https://open.kattis.com/problems/eyeofsauron)|Python3|
+|57|[Double_Password](https://open.kattis.com/problems/doublepassword)|Python3|
+|58|[Digit_Swap](https://open.kattis.com/problems/digitswap)|Python3|
+|58|[CPR_Number](https://open.kattis.com/problems/cprnummer)|Python3|
+
 
 
