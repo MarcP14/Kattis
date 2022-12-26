@@ -4,7 +4,7 @@ namespace CSharp___Solutions
 {
     class Watch_Out_For_Those_Hailstones
     {
-        static void Main(string[] args)
+        static void Old_Main(string[] args)
         {
             Console.WriteLine(hailstone_sequence(Int64.Parse(Console.ReadLine())));
         }
