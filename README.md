@@ -62,5 +62,8 @@ Solutions to the [Kattis problems](https://open.kattis.com/).
 |56|[Eye_of_Sauron](https://open.kattis.com/problems/eyeofsauron)|Python3|
 |57|[Double_Password](https://open.kattis.com/problems/doublepassword)|Python3|
 |58|[Digit_Swap](https://open.kattis.com/problems/digitswap)|Python3|
-|58|[CPR_Number](https://open.kattis.com/problems/cprnummer)|Python3|
-|58|[The_Queen's_Super-circular_Patio](https://open.kattis.com/problems/queenspatio)|Python3|
+|59|[CPR_Number](https://open.kattis.com/problems/cprnummer)|Python3|
+|60|[The_Queen's_Super-circular_Patio](https://open.kattis.com/problems/queenspatio)|Python3|
+|61|[Simplicity](https://open.kattis.com/problems/simplicity)|Python3|
+|62|[CD](https://open.kattis.com/problems/cd)|Python3|
+
